@@ -27,7 +27,7 @@ This project addresses those issues by providing secure login and basic threat m
 - Password hashing using bcrypt (no plain-text passwords)
 - Protected backend routes
 - Login attempt monitoring (success / failure)
-- Clean and secure Git practices using .gitignore
+- Clean and secure Git practices using `.gitignore`
 
 ---
 
@@ -54,5 +54,3 @@ This project addresses those issues by providing secure login and basic threat m
 ```bash
 pip install -r requirements.txt
 python app.py
-
---
